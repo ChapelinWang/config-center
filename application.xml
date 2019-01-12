@@ -1,0 +1,3 @@
+spring.cloud.config.profile=default
+username=default.wang
+password=default.123

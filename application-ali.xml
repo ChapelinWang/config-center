@@ -1,0 +1,4 @@
+spring.application.name=ali
+spring.cloud.config.profile=ali-dev
+username=ali.wang
+password=ali.123

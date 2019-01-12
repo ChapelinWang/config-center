@@ -1,0 +1,4 @@
+spring.application.name=qq
+spring.cloud.config.profile=qq-dev
+username=qq.wang
+password=qq.123
